@@ -1,4 +1,4 @@
-#Conent of this Repository
+Conent of this Repository
 
 Main part of the workbooks and PowerPointSlides are for presentation of Machine learning models comparison results
 
@@ -6,7 +6,7 @@ Main part of the workbooks and PowerPointSlides are for presentation of Machine 
 
 Amex Credit Card Default Prediction.pdf shows the presentation and results of the models comparison
 
-workbooks: 
+Workbooks: 
 1) EDA part
 
 Amex_kaggle_EDA_features_forward_backward_fill_MiniProject2.ipynb
