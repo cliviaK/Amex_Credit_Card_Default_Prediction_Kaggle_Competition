@@ -28,3 +28,6 @@ Summary_Amex_Default_Prediction_models_MiniProject2_withStacking.ipynb
 2. Competition Workbooks:
 
 It includes the workbooks to join the competition
+
+3. Data source:
+https://www.kaggle.com/code/odins0n/load-parquet-files-with-low-memory
